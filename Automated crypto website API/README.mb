@@ -1,0 +1,13 @@
+AUTOMATED CRYPTO WEBSITE API PULL USING PYTHON
+
+API Integration and Data Retrieval:
+Developed a Python script using requests to fetch the latest cryptocurrency data from the CoinMarketCap API.
+Managed API authentication and error handling for stable data retrieval.
+
+Data Processing and Storage:
+Utilized pandas for data normalization and storage, creating a comprehensive DataFrame with real-time cryptocurrency data.
+Implemented periodic data collection using loops and sleep intervals to maintain updated datasets.
+
+Data Visualization and Analysis:
+Performed data analysis on cryptocurrency trends over various time periods.
+Created visualizations using seaborn and matplotlib to illustrate price trends and percentage changes for different cryptocurrencies.
