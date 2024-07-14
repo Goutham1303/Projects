@@ -1,0 +1,24 @@
+Analysis on AirBnB Project
+
+Project Overview
+This project aims to analyze Airbnb listings data using Tableau. The visualizations provide insights into various aspects of the Airbnb market, helping to understand trends and patterns.
+
+Key Insights and Visualizations
+
+Average Price Per Bedroom:
+A bar chart displays the average price of Airbnb listings based on the number of bedrooms, providing a clear comparison across different property sizes.
+
+Price Per Zipcode:
+A map and bar chart show the distribution of average prices across different zip codes, highlighting the geographical variance in Airbnb listing prices.
+
+Revenue Trends Over Time:
+A line chart visualizes the revenue generated over time, allowing the identification of seasonal trends and peak periods.
+
+Distinct Count of Bedroom Listings:
+A breakdown of the number of listings available per bedroom count, offering insights into the most common property types.
+
+Additional Visualizations:
+Various other charts and graphs offer further insights, such as the count of listings per country, favorite programming languages of survey respondents, and difficulty in breaking into data roles.
+
+Tools and Technologies
+Tableau: Used for creating interactive and dynamic visualizations.
