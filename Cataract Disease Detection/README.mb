@@ -1,0 +1,14 @@
+CATARACT DISEASE DETECTION
+
+The aim of this study is to identify the cataracts on ophthalmic images was to be assessed to examine the efficacy of Convolutional Neural Network (CNN) architectures: VGG-19 and DenseNet-169.
+This paper attempts a comparison study of a comprehensive dataset from the ODIR (Ocular Disease Intelligent Recognition) is the dataset used in this study. 
+This dataset is one of the most comprehensive resources available to the public on Kaggle for detecting eye diseases with regard to understanding the diagnostic accuracy of these models for the detection of cataracts. 
+Materials and Methods: The VGG-19 model operates by taking input image with a fixed size (224*224). It detects various edges, shapes, textures of an image using the 16-convolutional layers. 
+The study brings out the fact that CNN architecture is very important for good precision and reliability in diagnosing cataracts. 
+Results: From this study, the results show that VGG-19 has achieved a remarkable accuracy of 98%, while an accuracy of 86% is available for the DenseNet-169 model. 
+The results thus bring out the importance of data-driven approaches to enhance diagnostic abilities in ophthalmology and facilitate early detection of ocular pathologies, 
+which provides very useful insights into the field of medical image analysis. 
+
+The cataract analysis system, using VGG-19 model under CNN-methodology, is a reliable solution for early disease detection. In light of progress in Machine Learning techniques, 
+there is a need for real-time monitoring and assessment of Cataract Disease in the context of evolving smart cities. 
+This research presents the VGG-19 is more effective and accurate than DenseNet-169 for early access of detecting cataract disease.
