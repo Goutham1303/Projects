@@ -1,0 +1,36 @@
+DATA PROFESSIONALS SYRVEY BREAKDOWN USING POWER BI
+
+Project Overview
+This project presents a comprehensive analysis of a survey conducted among data professionals, visualized using Power BI. The dashboard provides insights into various aspects such as salary, work-life balance, job satisfaction, and preferred programming languages among data professionals.
+
+Key Features
+
+Demographics and Job Details
+Country of Survey Takers: Visualized using a treemap to show the distribution of survey participants by country.
+Average Salary by Job Title: A bar chart representing the average salary for different data-related job titles such as Data Scientist, Data Engineer, and Data Analyst.
+
+Programming Languages
+Favorite Programming Language: A bar chart indicating the most popular programming languages among survey respondents, including Python, R, and JavaScript.
+
+Job Market Insights
+Difficulty to Break Into Data: A donut chart illustrating the perceived difficulty of entering the data profession.
+Count of Voters by Programming Language: A bar chart showing the number of respondents who favor each programming language.
+
+Satisfaction Metrics
+Happiness with Work/Life Balance: A gauge chart reflecting the average happiness level of respondents regarding their work-life balance.
+Happiness with Salary: A gauge chart showing the average satisfaction level with salary among survey participants.
+
+Technical Details
+Data Source: The survey data was sourced from a questionnaire filled out by data professionals.
+Visualization Tool: Power BI was utilized to create an interactive and visually appealing dashboard.
+Data Transformation: Data was cleaned and transformed using Power Query within Power BI to ensure accurate and meaningful visualizations.
+
+Insights and Findings
+The United States has the highest number of survey participants, followed by India and the United Kingdom.
+Data Scientists and Data Engineers have the highest average salaries among the surveyed job titles.
+Python is the most favored programming language among data professionals, followed by R and SQL.
+The majority of respondents find breaking into the data field to be neither easy nor difficult, indicating a moderate level of entry challenge.
+On average, data professionals report moderate satisfaction with their work-life balance and salary.
+
+Conclusion
+This Power BI dashboard provides valuable insights into the data profession landscape, helping stakeholders understand the key factors influencing job satisfaction, salary trends, and skill preferences within the industry.
