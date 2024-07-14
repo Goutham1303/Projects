@@ -1,0 +1,15 @@
+AMAZON WEB SCRAPER API
+
+Web Scraping and Data Extraction:
+Used requests to fetch the webpage content and BeautifulSoup to parse the HTML.
+Extracted the product title and price from the Amazon page using the product's HTML IDs.
+Cleaned the extracted data by stripping unnecessary characters.
+
+Data Storage and Logging:
+Stored the extracted data (title, price, and date) in a CSV file.
+Used csv and pandas to handle data storage and retrieval.
+Implemented a function to periodically check the product price and append new data to the CSV file.
+
+Automated Notifications:
+Set up an SMTP connection to send email alerts when the product price drops below a certain threshold.
+Used a while loop with a sleep interval to automate the price checking process and keep the dataset updated.
